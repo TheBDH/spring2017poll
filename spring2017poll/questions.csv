@@ -6,7 +6,7 @@
 "FALSE","Orientation","How would you describe your sexual orientation?","Heterosexual","Gay","Bisexual","Other",,,,,,,,,,,,,
 "TRUE","Race","Race/Ethnicity?","White","Asian","Hispanic","Black","American Indian/Alaska Native","Native Hawaiian/Pacific Islander","Other",,,,,,,,,,
 "TRUE","Concentration","Concentration area(s)?","Humanities/arts","Life Sciences","Physical Sciences (incl. math, CS)","Social Sciences",,,,,,,,,,,,,
-"FALSE","Political affiliation","How would you describe your political affiliation?","Democrat","Republican","Independent","Other",,,,,,,,,,,,,,
+"FALSE","Political affiliation","How would you describe your political affiliation?","Democrat","Republican","Independent","Other",,,,,,,,,,,,,
 "FALSE","Legacy","Are you a 'legacy' student (i.e. you have a parent, grandparent or sibling who attended Brown)?","Yes","No",,,,,,,,,,,,,,,
 "FALSE","FirstGen","Do you identify as a first-generation college student?","Yes","No",,,,,,,,,,,,,,,,
 "FALSE","Paxson","Do you approve or disapprove of the way Christina Paxson is handling her job as president of the University? (Circle one)","Strongly approve","Somewhat approve","No opinion","Somewhat disapprove","Strongly disapprove",,,,,,,,,,,,,,
