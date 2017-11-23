@@ -1,5 +1,4 @@
 import numpy as np
-np.seterr(divide='ignore', invalid='ignore')
 from scipy.stats import chisquare
 import csv, re, json, os, math, string, cgi
 
